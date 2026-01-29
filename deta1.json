@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Pratik Bhalke",
+        "age": 20,
+        "email": "Pratik@",
+        "pin": 9022,
+        "accountNo.": "306489ovz",
+        "balance": 0
+    },
+    {
+        "name": "sahil",
+        "age": 22,
+        "email": "Sahil@",
+        "pin": 6867,
+        "accountNo.": "265192TxG",
+        "balance": 0
+    },
+    {
+        "name": "raj",
+        "age": 55,
+        "email": "raj@",
+        "pin": 7576,
+        "accountNo.": "820217MCo",
+        "balance": 0
+    }
+]
